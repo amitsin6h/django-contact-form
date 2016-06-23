@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+django-tuts
+db.sqlite3
+/templates
+.DS_Store
